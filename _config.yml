@@ -60,7 +60,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: yregaieg/mr
 
 sass:
   sass_dir: _sass
